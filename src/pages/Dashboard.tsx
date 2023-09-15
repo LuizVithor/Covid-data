@@ -6,7 +6,6 @@ import { useAppDispatch, useAppSelector } from "hooks/redux";
 import useWindowSize from "hooks/useWindowSize";
 import { DatePicker } from "@mui/x-date-pickers/DatePicker";
 import Box from '@mui/material/Box';
-import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import {
     FormControl,
